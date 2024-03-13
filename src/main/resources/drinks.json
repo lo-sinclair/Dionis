@@ -1,0 +1,238 @@
+[
+  {
+    "title": "Cпавное вино",
+    "key": "spavnoe_vino",
+    "color": 16715585,
+    "craft": [
+      ["SWEET_BERRIES", "SUGAR", "SWEET_BERRIES"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "SLOW_FALLING", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Душистый грюйт",
+    "key": "dushisty_gruit",
+    "color": 14717184,
+    "craft": [
+      ["TALL_GRASS", "POPPY", "TALL_GRASS"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SPEED", "amplifier": 0, "duration": 3},
+      {"type": "WEAKNESS", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Пиво Пивольда",
+    "key": "pivo_pivolda",
+    "color": 8057343,
+    "craft": [
+      ["ICE", "POWDER_SNOW_BUCKET", "SNOWBALL"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "FREEZE", "amplifier": 0, "duration": 3},
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "FIRE_RESISTANCE", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Коралловый ликёр",
+    "key": "corallovy_licer",
+    "color": 16732906,
+    "craft": [
+      ["HORN_CORAL", "FIRE_CORAL", "TUBE_CORAL"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "WEAKNESS", "amplifier": 0, "duration": 3},
+      {"type": "SATURATION", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Лесная медовуха",
+    "key": "lesnaya_medovuha",
+    "color": 8388423,
+    "craft": [
+      ["POPPY", "HONEYCOMB", "OXEYE_DAISY"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "LUCK", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Биттер цветущего папоротника",
+    "key": "bitter_cvet_paporotnika",
+    "color": 4569088,
+    "craft": [
+      ["LARGE_FERN", "SUGAR", "LARGE_FERN"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "WATER_BREATHING", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Яблочный голденрот",
+    "key": "jablocny_goldenrot",
+    "color": 16768015,
+    "craft": [
+      ["GOLD_NUGGET", "GOLDEN_APPLE", "GOLD_NUGGET"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "POISON", "amplifier": 0, "duration": 3},
+      {"type": "CONFUSION", "amplifier": 0, "duration": 3},
+      {"type": "GLOWING", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Арбузное вино",
+    "key": "arbuznoe_vino",
+    "color": 15304541,
+    "craft": [
+      ["GLISTERING_MELON_SLICE", "MELON", "GLISTERING_MELON_SLICE"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "SLOW_FALLING", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Аметистовый маотай",
+    "key": "ametistoviy_maotai",
+    "color": 16744691,
+    "craft": [
+      ["MEDIUM_AMETHYST_BUD", "CORNFLOWER", "MEDIUM_AMETHYST_BUD"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "FAST_DIGGING", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Рыбная брага",
+    "key": "ribnaya_braga",
+    "color": 13281676,
+    "craft": [
+      ["COD", "WOOD_SALT", "SALMON"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "LUCK", "amplifier": 0, "duration": 3},
+      {"type": "WATER_BREATHING", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Пряная кашаса",
+    "key": "pryanaia_kashasa",
+    "color": 12372313,
+    "craft": [
+      ["SUGAR_CANE", "AZALEA_LEAVES", "SUGAR_CANE"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "CONFUSION", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Берёзовый эль",
+    "key": "berozoviy_el",
+    "color": 16773437,
+    "craft": [
+      ["SLIVKI", "HONEY_BOTTLE", "BIRCH_JUICE"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "CONFUSION", "amplifier": 0, "duration": 3},
+      {"type": "JUMP", "amplifier": 4, "duration": 3}
+    ]
+  },
+  {
+    "title": "Шампанское Цирцеи",
+    "key": "shampan_circei",
+    "color": 16769638,
+    "craft": [
+      ["GLOWSTONE_DUST", "SUGAR", "GLOW_BERRIES"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "CONFUSION", "amplifier": 0, "duration": 3},
+      {"type": "HEALTH_BOOST", "amplifier": 0, "duration": 3},
+      {"type": "WEAKNESS", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Чёрная хмарь",
+    "key": "chernaya_hmar",
+    "color": 3355443,
+    "craft": [
+      ["SCULK", "SCULK_VEIN", "MOON_SUGAR"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SLOW", "amplifier": 0, "duration": 3},
+      {"type": "CONFUSION", "amplifier": 0, "duration": 3},
+      {"type": "DARKNESS", "amplifier": 0, "duration": 3},
+      {"type": "POISON", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Настойка на крипере",
+    "key": "nastoika_criper",
+    "color": 4249088,
+    "craft": [
+      ["WOOD_SALT", "CREEPER_HEAD", "MOON_SUGAR"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SPEED", "amplifier": 0, "duration": 3},
+      {"type": "CONFUSION", "amplifier": 0, "duration": 3},
+      {"type": "JUMP", "amplifier": 0, "duration": 3}
+    ]
+  },
+  {
+    "title": "Кровавая Мэрри",
+    "key": "krovavaya_merri",
+    "color": 15157564,
+    "craft": [
+      ["CRIMSON_ROOTS", "WOOD_SALT", "WEEPING_VINES"],
+      ["DRUNK_BERRIES", "DRUNK_BERRIES", "DRUNK_BERRIES"],
+      ["SUSLO", "SUSLO", "SUSLO"]
+    ],
+    "effect": [
+      {"type": "SPEED", "amplifier": 0, "duration": 3},
+      {"type": "CONFUSION", "amplifier": 0, "duration": 3},
+      {"type": "JUMP", "amplifier": 0, "duration": 3}
+    ]
+  }
+]

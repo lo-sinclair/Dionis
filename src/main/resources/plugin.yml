@@ -1,0 +1,4 @@
+name: Dionis
+version: '${project.version}'
+main: locb.odi.dionis.Dionis
+api-version: 1.19
